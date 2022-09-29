@@ -5,6 +5,7 @@ body {
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
+    background-color: #FDDC0A;
 
     font-family: sans serif;
 
@@ -22,9 +23,9 @@ table {
 
     width: 60%;
 
-    margin: auto;
+    margin: 5% auto;
 
-    table-layout:fixed:
+    table-layout: fixed:
 
     border-collapse: collapse;
 
@@ -34,4 +35,9 @@ th,td {
 
     border: 1px solid black;
 
+}
+
+
+tr {
+    background-color: #ffffff;
 }
